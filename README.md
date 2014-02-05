@@ -35,7 +35,7 @@ Step 6: Open your steam library that lists all your games.
 Right click on Arma 3, and hit Properties (Opens new window)
 Click the button that says "Set Launch Options..."
 COPY the following line in and PASTE it in the box and hit Okay, and close.
--nosplash -mod=@CBA_A3;@sthud;@tmr;@task_force_radio
+-nosplash -mod=@CBA_A3;@sthud;@tmr;@task_force_radio;@A3MP;@mas
 
 Step 7: After running Arma3, go into configure hotkeys, and into the multiplayer options
 delete the binding for Voice over Net and push to talk.
