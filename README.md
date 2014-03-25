@@ -1,25 +1,21 @@
 Dogs of the State Modpack for Arma 3
 ====================================
 
-Get yer modpack while it's hot! This is the modpack for Dogs of the State.
+This is the modpack for Dogs of the State. This includes our 4 core mods that you must have to play on the server. This also includes the 2 optional mods that will be needed depending on the mission.
 
 Modlist
 =======
-CommunityBaseAddon3
+CommunityBaseAddon3 (Required)
 
-ShacTacHUD
+ShacTacHUD (Required)
 
-TMR
+TMR (Required)
 
-TaskForceRadio
+TaskForceRadio (Required)
 
 Arma3MapPack
 
-NATO SF and Russian Spetsnaz Weapons
-
 JS JC FA18
-
-Arma 3 Aggressors
 
 Setup
 =====
@@ -38,19 +34,13 @@ Optional: All other plugins can be unchecked.
 Step 4: Download A3MP from http://www.armaholic.com/page.php?id=23863
 Extract the archive and copy the @A3MP folder into your Arma 3 folder
 
-Step 5: Download NATO SF and Russian Spetsnaz Weapons from http://www.armaholic.com/page.php?id=21912
-Extract the archive and copy the @mas folder into your Arma 3 folder
-
-Step 6: Download Arma 3 Aggressors from http://forums.bistudio.com/showthread.php?172069-Arma3-AGGRESSORS
-Extract the archive and copy the @CAF_AG folder into your Arma 3 folder
-
-Step 7: Open your steam library that lists all your games.
+Step 5: Open your steam library that lists all your games.
 Right click on Arma 3, and hit Properties (Opens new window)
 Click the button that says "Set Launch Options..."
-COPY the following line in and PASTE it in the box and hit Okay, and close.
--nosplash -mod=@CBA_A3;@sthud;@tmr;@task_force_radio;@A3MP;@mas;@JS_JC_FA18
+Copy the following line in and paste it in the box and hit okay, and close.
+-nosplash -mod=@CBA_A3;@sthud;@tmr;@task_force_radio;@A3MP;@JS_JC_FA18
 
-Step 8: After running Arma3, go into configure hotkeys, and into the multiplayer options
+Step 6: After running Arma3, go into configure hotkeys, and into the multiplayer options
 delete the binding for Voice over Net and push to talk.
 
-Step 9: Congrats you're done. If something goes wrong ask Chessmaster42(Joseph) in TeamSpeak.
+Step 7: Congrats you're done. If something goes wrong ask Chessmaster42(Joseph) in TeamSpeak.
