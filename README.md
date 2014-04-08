@@ -5,7 +5,7 @@ This is the modpack for Dogs of the State. This includes our 4 core mods that yo
 
 Modlist
 =======
-Community Base Addon 3 (Required)
+Community Base Addon 3 Beta 5(Required)
 
 ShacTacHUD (Required)
 
