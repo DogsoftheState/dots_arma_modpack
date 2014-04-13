@@ -13,7 +13,9 @@ TMR (Required)
 
 TaskForceRadio (Required)
 
-Arma 3 Map Pack 1.4
+Curator Presets Mod (Required)
+
+Arma 3 Map Pack 1.4 (Required)
 
 Setup
 =====
