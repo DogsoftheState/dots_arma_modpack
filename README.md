@@ -9,11 +9,11 @@ Community Base Addon 3 Beta 5(Required)
 
 ShacTacHUD (Required)
 
-TMR (Required)
+TMR 0.3.2 (Required)
 
 TaskForceRadio (Required)
 
-Curator Presets Mod (Required)
+Curator Presets Mod 1.2 (Required)
 
 Arma 3 Map Pack 1.4 (Required)
 
