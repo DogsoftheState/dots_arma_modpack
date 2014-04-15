@@ -13,7 +13,7 @@ TMR 0.3.2 (Required)
 
 TaskForceRadio (Required)
 
-Curator Presets Mod 1.2 (Required)
+Curator Presets Mod 1.3 (Required)
 
 Arma 3 Map Pack 1.4 (Required)
 
