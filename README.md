@@ -11,7 +11,7 @@ ShacTacHUD (Required)
 
 TMR 0.3.2 (Required)
 
-TaskForceRadio (Required)
+TaskForceRadio 0.8.3 (Required)
 
 Curator Presets Mod 1.5 (Required)
 
@@ -24,8 +24,9 @@ Step 1: Copy all folders inside Arma 3 folder, and paste them to Arma 3's root f
 Ex: C:\Program Files\Steam\SteamApps\Common\Arma3\
 (Overwrite the keys folder.)
 
-Step 2: Copy the plugin folder inside TeamSpeak 3 Client, and paste it inside
-Teamspeak 3 (Ex: C:\Program Files\Teamspeak 3 Client\ <OR> C:\Program Files (x86)\Teamspeak 3 Client\)
+Step 2: Copy the plugin folder inside TeamSpeak 3 Client, and paste it inside Teamspeak 3
+Ex: C:\Program Files\Teamspeak 3 Client\ <OR> C:\Program Files (x86)\Teamspeak 3 Client\
+Optional: Copy the folder with 3.0.13 if you need the older plugins
 
 Step 3: Open Teamspeak 3 and press Settings (at the top) --> Plugins
 Click "Reload All" at bottom left, then check mark "Task Force Arma 3 Radio"
