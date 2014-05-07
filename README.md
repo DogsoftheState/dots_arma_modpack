@@ -13,16 +13,19 @@ TMR 0.3.2 (Required)
 
 TaskForceRadio 0.8.3 (Required)
 
-Curator Presets Mod 1.9 (Required)
+Curator Presets Mod 1.9.1 (Required)
+
+Chessmasters Wounding System 1.1.2 (Required)
 
 Arma 3 Map Pack 1.4 (Required)
 
 Setup
 =====
 
-Step 1: Copy all folders inside Arma 3 folder, and paste them to Arma 3's root folder 
-Ex: C:\Program Files\Steam\SteamApps\Common\Arma3\
-(Overwrite the keys folder.)
+Step 1: Copy all folders inside Arma 3 folder, and paste them to Arma 3's root folder overwriting as needed
+Ex: C:\Program Files\Steam\SteamApps\Common\Arma 3\
+Alternatively copy the mods to your Arma 3 folder in your documents (but don't do both)
+Ex: C:\Users\<username>\Documents\Arma 3\
 
 Step 2: Copy the plugin folder inside TeamSpeak 3 Client, and paste it inside Teamspeak 3
 Ex: C:\Program Files\Teamspeak 3 Client\ <OR> C:\Program Files (x86)\Teamspeak 3 Client\
@@ -39,7 +42,7 @@ Step 5: Open your steam library that lists all your games.
 Right click on Arma 3, and hit Properties (Opens new window)
 Click the button that says "Set Launch Options..."
 Copy the following line in and paste it in the box and hit okay, and close.
--nosplash -mod=@CBA_A3;@sthud;@tmr;@task_force_radio;@A3MP;
+-nosplash -mod=@CBA_A3;@sthud;@tmr;@task_force_radio;@A3MP;@CPM;@CWS;
 
 Step 6: After running Arma3, go into configure hotkeys, and into the multiplayer options
 delete the binding for Voice over Net and push to talk.
