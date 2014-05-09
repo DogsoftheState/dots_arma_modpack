@@ -13,9 +13,9 @@ TMR 0.3.2 (Required)
 
 TaskForceRadio 0.8.3 (Required)
 
-Curator Presets Mod 1.9.1 (Required)
+Curator Presets Mod 1.9.2 (Required)
 
-Chessmasters Wounding System 1.1.2 (Required)
+Chessmasters Wounding System 1.1.3 (Required)
 
 Arma 3 Map Pack 1.4 (Required)
 
